@@ -129,7 +129,9 @@ window.onload = function() {
   "mouseWheelZoomEnabled": true,
   "showDescriptionOnHover": true,
 
-  "smallMap": {}
+  "smallMap": {
+    "enabled": false,
+  }
   } );
 
   var worldMap = AmCharts.makeChart( "worldMapDiv", {
@@ -188,7 +190,9 @@ window.onload = function() {
   "zoomDuration": 0.5,
   "mouseWheelZoomEnabled": true,
 
-  "smallMap": {}
+  "smallMap": {
+    "enabled": false,
+  }
   } );
 
 }

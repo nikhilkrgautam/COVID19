@@ -4,6 +4,15 @@
     margin: 0;
 }
 
+/* body {
+    background-color: black;
+} */
+
+.cont {
+    padding: 10px 200px;
+    background-color: black;
+}
+
 .nav-tabs{
     border-bottom: 0px !important;
     padding: 12px;
@@ -54,4 +63,21 @@
 
 .deaths{
     color: red;
+}
+
+.table{
+    text-align: center;
+    background-color: black;
+}
+
+th{
+    color: white;
+}
+
+td{
+    color: white;
+}
+
+h2,h3{
+    color: #3a68cc;
 }
