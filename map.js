@@ -125,8 +125,9 @@ window.onload = function() {
     }]
   },
 
+
   "zoomDuration": 0.5,
-  "mouseWheelZoomEnabled": true,
+  "mouseWheelZoomEnabled": false,
   "showDescriptionOnHover": true,
 
   "smallMap": {
@@ -187,8 +188,9 @@ window.onload = function() {
     }]
   },
 
+
   "zoomDuration": 0.5,
-  "mouseWheelZoomEnabled": true,
+  "mouseWheelZoomEnabled": false,
 
   "smallMap": {
     "enabled": false,
