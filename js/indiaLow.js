@@ -8,6 +8,7 @@ window.onload = function() {
 					"projection":"mercator",
 					"leftLongitude":"68.189980",
 					"topLatitude":"37.053798",
+				
 					"rightLongitude":"97.419638",
 					"bottomLatitude":"6.746236"
 				}
