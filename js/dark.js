@@ -66,7 +66,6 @@ window.onload = function() {
   		lineAlpha: 0.9
   	},
 
-
   	GaugeArrow: {
   		color: "#FFFFFF",
   		alpha: 0.8,
